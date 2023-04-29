@@ -1,0 +1,16 @@
+{"name":" Ajit sharma",
+"type":"personal",
+"bio":"OPEN SOURCE COMMUNITY"
+}
+"links": [
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/ajit-kumar-865b46273",
+      "icon": "Falinkdin"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://instagram.com/ajit.s_art?igshid=YmMyMTA2M2Y=",
+      "icon": "FaInstagram"
+    }
+  ]
